@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Noto+Sans+JP:wght@100..900&family=RocknRoll+One&display=swap");
+html,
+:root,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
